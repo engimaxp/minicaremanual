@@ -1,3 +1,3 @@
-# This is a book about taking care of an baby #
+# This is a book about how to taking care of a baby #
 
-by enigmaxp
+Written by enigmaxp
