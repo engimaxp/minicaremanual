@@ -81,8 +81,8 @@
   * [外出安全](second-question.md)
   * [社区安全](second-question.md)
 
-* [常见疾病护理](second-question.md)
-  * [腹部/消化道](second-question.md)
+* [常见疾病护理](Normal-Diseases/Intro.md)
+  * [腹部/消化道](Normal-Diseases/Belly.md)
   * [过敏症](second-question.md)
   * [精神行为](second-question.md)
   * [胸和肺](second-question.md)
