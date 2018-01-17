@@ -2,8 +2,6 @@
 
 * [孕晚期自我监护](monitoring.md)
 
-* [孕晚期的保健](second-question.md)
-
 * [分娩和分娩后](childbirth.md)
 
 * [月子期间护理](after-child-birth.md)
