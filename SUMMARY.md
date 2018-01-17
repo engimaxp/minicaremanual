@@ -4,7 +4,9 @@
 
 * [孕晚期的保健](second-question.md)
 
-* [分娩和分娩后](second-question.md)
+* [分娩和分娩后](childbirth.md)
+
+* [月子期间护理](after-child-birth.md)
 
 * [婴儿的日常护理](second-question.md)
 
